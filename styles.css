@@ -1,0 +1,53 @@
+#topo{
+
+    height: 250px;
+    width: 100%;
+    background-color: teal;
+    background-image: url('../img/topo.jpg');
+    background-size: 100%;
+
+    
+}
+#nav{
+    height:500px;
+    width: 40%;
+    background-color:teal;
+    float: left;
+}
+#conteudo{
+    height: 500px;
+    width: 60%;
+    background-color: turquoise;
+    float: left;
+}
+#rodape{
+    height: 200px;
+    width: 100%;
+    background-color: turquoise;
+    float:left ;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+}
+menu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: 10%;
+}
+
+h1{
+    vertical-align: middle;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color: whitesmoke;
+    height: 50%;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
